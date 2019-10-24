@@ -84,11 +84,13 @@ Please select the following link:
 
 ### MSMS-Chooser (v1.0)
 1. Navigate to [ProteoSAFe](https://proteomics2.ucsd.edu/ProteoSAFe/index.jsp?params=%7B%22workflow%22:%22MS-CHOOSER%22%7D).
-  * Select all .mzXML files, negative and positive, from MassIVE
-  * Select the **"MSMS-Chooser Submission"** file (.tsv) from MassIVE
+  * Select all .mzXML files, negative and positive, from MassIVE as "Spectrum Files"
+  * Select the **"MSMS-Chooser Submission"** file (.tsv) from MassIVE as the "Annotation Table"
+  * Set Precursor PPM Tolerance to 10.0
 2. Launch the Job
 3. Download result file and test using the following [Validator](http://dorresteinappshub.ucsd.edu:5020/).
 4. Send completed Job Link to Contacts (detailed below)
+     * Include a Title for the new library and a small (2-4 Sentence) description
 
 ## Contacts
 Morgan Panitchpakdi(mpanitch@ucsd.edu) and Mingxun Wang (miw023@ucsd.edu)
