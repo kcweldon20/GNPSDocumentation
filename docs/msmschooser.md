@@ -1,7 +1,7 @@
 # Open-source Protocol for Community-created Public MS/MS Reference Library (MSMS-Chooser)
 
 ## Summary
-[MSMS-Chooser](https://proteomics2.ucsd.edu/ProteoSAFe/index.jsp?params=%7B%22workflow%22:%22MS-CHOOSER%22%7D) is a GNPS workflow and open-source protocol to empower the community to collect MS/MS reference data and contribute to the public MS/MS reference library.
+MSMS-Chooser is a GNPS workflow and open-source protocol to empower the community to collect MS/MS reference data and contribute to the public MS/MS reference library.
 
 **This is a community effort and welcome everyone to participate!**
   * We encourage individuals to implement the protocols in their own laboratory.
