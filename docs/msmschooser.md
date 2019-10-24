@@ -87,7 +87,7 @@ Please select the following link:
   * Select all .mzXML files, negative and positive, from MassIVE
   * Select the **"MSMS-Chooser Submission"** file (.tsv) from MassIVE
 2. Launch the Job
-3. Download result file and test using the following [Validator](http://dorresteinappshub.ucsd.edu:5020/).
+3. Download result file and test using the following [Validator](https://gnps-quickstart.ucsd.edu/validatebatch).
 4. Send completed Job Link to Contacts (detailed below)
 
 ## Contacts
